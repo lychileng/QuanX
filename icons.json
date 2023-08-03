@@ -1,0 +1,9 @@
+{
+    "name":"icons", 
+    "description":"for personal use", 
+    "icons":[
+        {"name":"US", "url":"https:\/\/raw.githubusercontent.com\/lychileng\/QuantumultX\/main\/icons\/US.png"}, 
+        {"name":"JP", "url":"https:\/\/raw.githubusercontent.com\/lychileng\/QuantumultX\/main\/icons\/JP.png"}, 
+        {"name":"EU", "url":"https:\/\/raw.githubusercontent.com\/lychileng\/QuantumultX\/main\/icons\/EU.png"}
+        ]
+    }

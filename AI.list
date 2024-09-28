@@ -1,5 +1,5 @@
 # NAME: AI
-# ChatGPT, Claude
+# ChatGPT, Claude, Gemini, NotebookLM
 HOST,browser-intake-datadoghq.com,AI
 HOST,static.cloudflareinsights.com,AI
 HOST-SUFFIX,ai.com,AI
@@ -25,6 +25,9 @@ HOST-SUFFIX,stripe.com,AI
 HOST-SUFFIX,turn.livekit.cloud,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
+HOST-SUFFIX,gemini.google.com,AI
+HOST-SUFFIX,notebooklm.google.com,AI
+HOST-KEYWORD,google,AI
 HOST-KEYWORD,AI,AI
 IP-CIDR,24.199.123.28/32,AI
 IP-CIDR,64.23.132.171/32,AI

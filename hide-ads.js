@@ -1,11 +1,10 @@
 // hide-ads.js
-/* 
-var adElements = document.querySelectorAll('.o-ads, #ad-id');
+var adElements = document.querySelectorAll('.o-ads');
 adElements.forEach(element => {
     element.style.display = 'none';
 });
-*/
 
+/*
 var observer = new MutationObserver(function(mutations) {
     mutations.forEach(function(mutation) {
         var style = document.createElement('style');
@@ -15,3 +14,4 @@ var observer = new MutationObserver(function(mutations) {
 });
 
 observer.observe(document.body, { childList: true, subtree: true });
+*/

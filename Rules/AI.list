@@ -1,5 +1,5 @@
 # NAME: AI
-# ChatGPT, Claude, Gemini, NotebookLM
+# ChatGPT, Claude, Gemini, NotebookLM, Grok
 HOST,browser-intake-datadoghq.com,AI
 HOST,static.cloudflareinsights.com,AI
 HOST-SUFFIX,ai.com,AI
@@ -29,6 +29,7 @@ HOST-SUFFIX,gemini.google.com,AI
 HOST-SUFFIX,notebooklm.google.com,AI
 HOST-SUFFIX,suno.com,AI
 HOST-SUFFIX,X.ai,AI
+HOST-SUFFIX,grok.com,AI
 HOST-KEYWORD,gemini,AI
 HOST-KEYWORD,AI,AI
 host-KEYWORD,grok,AI

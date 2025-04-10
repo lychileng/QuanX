@@ -25,12 +25,13 @@ HOST-SUFFIX,stripe.com,AI
 HOST-SUFFIX,turn.livekit.cloud,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
-HOST-SUFFIX,gemini.google.com,AI
-HOST-SUFFIX,notebooklm.google.com,AI
+HOST-SUFFIX,gemini.google.com,🇺🇸 IPLC-US
+HOST-SUFFIX,notebooklm.google.com,🇺🇸 IPLC-US
+HOST-SUFFIX,aistudio.google.com,🇺🇸 IPLC-US
 HOST-SUFFIX,suno.com,AI
 HOST-SUFFIX,X.ai,AI
 HOST-SUFFIX,grok.com,AI
-HOST-KEYWORD,gemini,AI
+HOST-KEYWORD,gemini,🇺🇸 IPLC-US
 HOST-KEYWORD,AI,AI
 host-KEYWORD,grok,AI
 IP-CIDR,24.199.123.28/32,AI

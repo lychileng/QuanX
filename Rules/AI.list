@@ -27,8 +27,9 @@ HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,gemini.google.com,AI
 HOST-SUFFIX,notebooklm.google.com,AI
-# HOST-SUFFIX,aistudio.google.com,🇺🇸 IPLC-US
-# HOST-SUFFIX,googleapis.com,🇺🇸 IPLC-US
+HOST-SUFFIX,aistudio.google.com,AI
+HOST-SUFFIX,googleapis.com,AI
+HOST-SUFFIX,generativelanguage.googleapis.com,AI
 HOST-SUFFIX,suno.com,AI
 HOST-SUFFIX,X.ai,AI
 HOST-SUFFIX,grok.com,AI

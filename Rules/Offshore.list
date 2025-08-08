@@ -19,10 +19,10 @@ HOST-SUFFIX, wise.com, Bank
 HOST-SUFFIX, transferwise.com, Bank
 HOST-KEYWORD, wise.com, Bank
 # SafePal
-HOST-SUFFIX, safepal.com, Bank
-HOST-SUFFIX, safepal.io, Bank
-HOST-SUFFIX, safepalwallet.com, Bank
-HOST-KEYWORD, safepal.com, Bank
+# HOST-SUFFIX, safepal.com, Bank
+# HOST-SUFFIX, safepal.io, Bank
+# HOST-SUFFIX, safepalwallet.com, Bank
+# HOST-KEYWORD, safepal.com, Bank
 # Fiat24
 HOST-SUFFIX, fiat24.com, Bank
 HOST-KEYWORD, fiat24.com, Bank

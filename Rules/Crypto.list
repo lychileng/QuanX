@@ -1,0 +1,11 @@
+# NAME: Crypto
+# Fiat24, SafePal, Ready, Pokepay, Binance, Backpack
+
+# Binance
+host-suffix, bnbstatic.com, Crypto
+host-suffix, binance.com, Crypto
+host-suffix, binance.org, Crypto
+host-keyword, binance, Crypto
+# PokePay
+host-suffix, pokepay.cc, Crypto
+host-suffix, pokepay.com, Crypto

@@ -1,5 +1,5 @@
 # NAME: Offshore Finance Services
-# HSBC, BOCHK, ZA, Wise, SafePal, Fiat24, Ready
+# HSBC, BOCHK, ZA, Wise, iFast, Airstar
 # HSBC
 HOST-SUFFIX, hsbc.com.hk, Bank
 HOST-SUFFIX, hsbcprivatebank.com.hk, Bank
@@ -13,20 +13,15 @@ HOST-KEYWORD, bochk.com, Bank
 HOST-SUFFIX, zabank.com, Bank
 HOST-SUFFIX, za.group, Bank
 HOST-SUFFIX, bank.za.group, Bank
-HOST-KEYWORD, zabank.com, Bank
+HOST-KEYWORD, zabank, Bank
 # Wise
 HOST-SUFFIX, wise.com, Bank
 HOST-SUFFIX, transferwise.com, Bank
 HOST-KEYWORD, wise.com, Bank
-# Fiat24
-HOST-SUFFIX, fiat24.com, Bank
-HOST-KEYWORD, fiat24.com, Bank
-# SafePal
-# HOST-SUFFIX, safepal.com, Bank
-# HOST-SUFFIX, safepal.io, Bank
-# HOST-SUFFIX, safepalwallet.com, Bank
-# HOST-KEYWORD, safepal.com, Bank
-# Ready
-# HOST-SUFFIX, ready.co, Bank
-# HOST-SUFFIX, card.ready.co, Bank
-# HOST-KEYWORD, ready.co, Bank
+# iFast
+HOST-SUFFIX, ifastcorp.com, Bank
+HOST-SUFFIX, ifastgb.com, Bank
+HOST-SUFFIX, ifastfinancial.com, Bank
+# Airstar
+HOST-SUFFIX, airstarbank.com, Bank
+HOST-KEYWORD, airstarbank, Bank

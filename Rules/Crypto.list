@@ -19,6 +19,9 @@ HOST-SUFFIX, bnbstatic.com, Crypto
 HOST-SUFFIX, binance.com, Crypto
 HOST-SUFFIX, binance.org, Crypto
 HOST-KEYWORD, binance, Crypto
+# Kraken
+HOST-SUFFIX, kraken.com, Crypto
+HOST-KEYWORD, kraken.com, Crypto
 # Backpack
 HOST-SUFFIX, backpack.exchange, Crypto
 HOST-SUFFIX, backpack.app, Crypto

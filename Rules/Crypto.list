@@ -15,10 +15,10 @@ HOST-SUFFIX, card.ready.co, Crypto
 HOST-SUFFIX, pokepay.cc, Crypto
 HOST-SUFFIX, pokepay.com, Crypto
 # Binance
-HOST-SUFFIX, bnbstatic.com, Crypto
-HOST-SUFFIX, binance.com, Crypto
-HOST-SUFFIX, binance.org, Crypto
-HOST-KEYWORD, binance, Crypto
+# HOST-SUFFIX, bnbstatic.com, Crypto
+# HOST-SUFFIX, binance.com, Crypto
+# HOST-SUFFIX, binance.org, Crypto
+# HOST-KEYWORD, binance, Crypto
 # Kraken
 HOST-SUFFIX, kraken.com, Crypto
 HOST-KEYWORD, kraken.com, Crypto

@@ -28,3 +28,7 @@ HOST-SUFFIX, backpack.app, Crypto
 # MetaMask
 HOST-SUFFIX, metamask.io, Crypto
 HOST-KEYWORD, metamask, Crypto
+# Bitget
+HOST-SUFFIX, bitget.com, Crypto
+HOST-KEYWORD, bitget.com, Crypto
+

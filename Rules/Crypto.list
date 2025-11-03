@@ -1,5 +1,10 @@
 # NAME: Crypto
 # Fiat24, SafePal, Ready, Pokepay, Binance, Backpack, MetaMask
+# Binance
+# HOST-SUFFIX, bnbstatic.com, Crypto
+# HOST-SUFFIX, binance.com, Crypto
+# HOST-SUFFIX, binance.org, Crypto
+# HOST-KEYWORD, binance, Crypto
 # Fiat24
 HOST-SUFFIX, fiat24.com, Crypto
 HOST-KEYWORD, fiat24, Crypto
@@ -11,14 +16,10 @@ HOST-KEYWORD, safepal, Crypto
 # Ready
 HOST-SUFFIX, ready.co, Crypto
 HOST-SUFFIX, card.ready.co, Crypto
+HOST-KEYWORD, ready.co, Crypto
 # PokePay
 HOST-SUFFIX, pokepay.cc, Crypto
 HOST-SUFFIX, pokepay.com, Crypto
-# Binance
-# HOST-SUFFIX, bnbstatic.com, Crypto
-# HOST-SUFFIX, binance.com, Crypto
-# HOST-SUFFIX, binance.org, Crypto
-# HOST-KEYWORD, binance, Crypto
 # Kraken
 HOST-SUFFIX, kraken.com, Crypto
 HOST-KEYWORD, kraken.com, Crypto
@@ -31,4 +32,6 @@ HOST-KEYWORD, metamask, Crypto
 # Bitget
 HOST-SUFFIX, bitget.com, Crypto
 HOST-KEYWORD, bitget.com, Crypto
-
+# Kiln
+HOST-SUFFIX, kiln.fi, Crypto
+HOST-KEYWORD, kiln.fi, Crypto

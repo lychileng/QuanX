@@ -6,8 +6,8 @@
 # HOST-SUFFIX, binance.org, Crypto
 # HOST-KEYWORD, binance, Crypto
 # Fiat24
-HOST-SUFFIX, fiat24.com, Crypto
-HOST-KEYWORD, fiat24, Crypto
+# HOST-SUFFIX, fiat24.com, Crypto
+# HOST-KEYWORD, fiat24, Crypto
 # SafePal
 HOST-SUFFIX, safepal.com, Crypto
 HOST-SUFFIX, safepal.io, Crypto

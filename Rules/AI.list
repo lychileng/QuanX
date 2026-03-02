@@ -6,8 +6,11 @@ HOST-SUFFIX,ai.com,AI
 HOST-SUFFIX,algolia.net,AI
 HOST-SUFFIX,api.statsig.com,AI
 HOST-SUFFIX,auth0.com,AI
+HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,chatgpt.com,AI
 HOST-SUFFIX,chatgpt.livekit.cloud,AI
+HOST-SUFFIX,oaistatic.com,AI
+HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,client-api.arkoselabs.com,AI
 HOST-SUFFIX,events.statsigapi.net,AI
 HOST-SUFFIX,featuregates.org,AI
@@ -16,8 +19,6 @@ HOST-SUFFIX,identrust.com,AI
 HOST-SUFFIX,intercom.io,AI
 HOST-SUFFIX,intercomcdn.com,AI
 HOST-SUFFIX,launchdarkly.com,AI
-HOST-SUFFIX,oaistatic.com,AI
-HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,observeit.net,AI
 HOST-SUFFIX,segment.io,AI
 HOST-SUFFIX,sentry.io,AI
@@ -30,11 +31,9 @@ HOST-SUFFIX,claude.ai,AI
 # HOST-SUFFIX,aistudio.google.com,AI
 # HOST-SUFFIX,googleapis.com,AI
 # HOST-SUFFIX,generativelanguage.googleapis.com,AI
-# HOST-KEYWORD,gemini,AI
 HOST-SUFFIX,suno.com,AI
 HOST-SUFFIX,X.ai,AI
 HOST-SUFFIX,grok.com,AI
-HOST-KEYWORD,grok,AI
 IP-CIDR,24.199.123.28/32,AI
 IP-CIDR,64.23.132.171/32,AI
 IP-ASN,20473,AI
